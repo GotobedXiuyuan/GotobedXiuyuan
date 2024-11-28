@@ -1,7 +1,6 @@
-# Hi, I'm Gotobed Xiuyuan 👋
+# Hi, I'm Chris(Xiuyuan) Wu 👋
 
 Welcome to my GitHub profile! 
-
 
 ## Skills
 
